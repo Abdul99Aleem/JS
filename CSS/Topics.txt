@@ -1,0 +1,20 @@
+1. in-line CSS
+2. Internal CSS
+3. External CSS 
+-> selectors  
+-> box sizing
+-> inline block elements 
+-> position property
+variables -> code root:{name:} in head tag / can use anywhere using var(name)
+-> flexbox ( flexwrap, justifycontent, align items/content, OrderProperty, flex grow/shirnk, alignself )
+code : display: flex;
+-> MediaQueries 
+code : @media ( condition ) and ( condition ) ./#/name{ value }
+-> shadows box and test
+code : box-shadow: x y colour / x y blurrad colour / x y blurrad spread colour / box-shadow: inset(inside box shadow) x y colour, multipleshadows etc.
+-> Animations code : @keyframe animation-name/duration/delay/iterationcount/direction/timingfunction/fillmode
+shorthand -> animation: duration easingfunc delay iterationcount direction fillmode playstate name
+->Transitions code : transition-property/duration/delay/timingfunction .box:hover{ width etc.} -> pseudoclass
+shorthand -> transition: porperty name duration easingfunction delay     
+
+
